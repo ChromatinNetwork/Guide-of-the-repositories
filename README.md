@@ -7,5 +7,5 @@ This repository just contain this README file, to introduce the content of the d
 
 ChromModnets - Infer chromatin state-specific co-location networks from a set of ChIP-Seq or similar experiments.
 epistemnet - A web tool to visualize the co-location network.
-xxx (co-evolution)
+CoevolNet - Code used to calculate co-evolutionary couplings among proteins.
 Others - Code used for the rest of the analyses described in the paper.
