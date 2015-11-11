@@ -6,6 +6,9 @@ Epigenomic co-localization and co-evolution reveal a key role for 5hmC as a comm
 This repository just contain this README file, to introduce the content of the different repositories in the ChromatinNetwork organisation. The repositories are organised as follows:
 
 ChromModnets - Infer chromatin state-specific co-location networks from a set of ChIP-Seq or similar experiments.
+
 epistemnet - A web tool to visualize the co-location network.
+
 CoevolNet - Code used to calculate co-evolutionary couplings among proteins.
+
 Others - Code used for the rest of the analyses described in the paper.
