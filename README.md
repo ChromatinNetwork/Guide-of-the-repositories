@@ -1,5 +1,5 @@
 # Guide-of-the-repositories
-The ChromatinNetwork organisation includes all the code used in the article
+The EpiStemNet organisation includes all the code used in the article
 
 Epigenomic co-localization and co-evolution reveal a key role for 5hmC as a communication hub in the chromatin network of ESCs, by David Juan, Juliane Perner, Enrique Carrillo de Santa Pau, Simone Marsili, David Ochoa, Ho-Ryun Chung, Martin Vingron, Daniel Rico and Alfonso Valencia. doi: http://dx.doi.org/10.1101/008821
 
@@ -12,3 +12,5 @@ epistemnet - A web tool to visualize the co-location network.
 CoevolNet - Code used to calculate co-evolutionary couplings among proteins.
 
 Others - Code used for the rest of the analyses described in the paper.
+
+All the original data used in this work is publicly available, see paper for references. Processed data is available at: http://epistemnet.bioinfo.cnio.es
